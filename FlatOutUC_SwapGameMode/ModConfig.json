@@ -1,0 +1,28 @@
+{
+  "ModId": "FlatOutUC_SwapGameMode",
+  "ModName": "FlatOutUC_SwapGameMode",
+  "ModAuthor": "Zack Wilde",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Every 30 seconds, everybody switches cars",
+  "ModDll": "FlatOutUC_SwapGameMode.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/FlatOutUC_SwapGameMode.dll",
+  "ModR2RManagedDll64": "x64/FlatOutUC_SwapGameMode.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "FlatOutUC_SwapGameMode.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "fouc.exe"
+  ],
+  "ProjectUrl": ""
+}
